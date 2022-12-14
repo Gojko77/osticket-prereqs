@@ -243,10 +243,9 @@ Take note of these two links:
 <p>
 
 
+**Now it's time to cleanup in preparation for Post-Installation Setup.** 
 
-Now it's time to cleanup in preparation for Post-Installation Setup.
-  
-Delete C:\inetpub\wwwroot\osTicket\setup folder.
+**Step 13:** Delete C:\inetpub\wwwroot\osTicket\setup folder.
   
 <p align="center">
 <img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
@@ -256,17 +255,19 @@ Delete C:\inetpub\wwwroot\osTicket\setup folder.
 You may need to delete the contents of the "setup" folder first before it allows you to delete the folder itself.
   
 <p align="center">
-<img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/0wr5oFT.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
-  
+**Final Step:** Reset permissions for *Everyone* back to "read" and "read & execute" in C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 <p align="center">
-<img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/9aYDI8d.png" height="50%" width="50%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
+
+**Congratulations on completing your osTicket Help Desk Installation!**
   
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Prereqs and Installation"/>
