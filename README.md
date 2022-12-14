@@ -119,7 +119,7 @@ Click "Enable or disable an extension" and enable the three extensions, *php_ima
 **Step 8:** Refresh the osTicket webpage. It should look something like this:
   
 <p align="center">
-<img src="https://i.imgur.com/tqYCpHL.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/tqYCpHL.png" height="40%" width="40%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
   
@@ -127,7 +127,7 @@ Click "Enable or disable an extension" and enable the three extensions, *php_ima
 **Step 9:** *Rename* "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
   
 <p align="center">
-<img src="https://i.imgur.com/Yb5ct3K.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/Yb5ct3K.png" height="50%" width="50%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
   
@@ -148,26 +148,63 @@ Then add new permissions for *everyone* and give *Full Control*.
 <p>
 
   
-
+**Step 10:** Go back to your browser and click "Continue". You should land at this page:
   
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/yiCMjxE.png" height="40%" width="40%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
   
-
+**Step 11:** Download and install *HeidiSQL* from Google Drive.
 
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/gP8AR7I.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
   
-
+Launch *HeidiSQL*,  create a "New Session", enter user and password, *root* and *Password1*, and click "Open".
   
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/qiENBYr.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+Create a "New Database"
+  
+<p align="center">
+<img src="https://i.imgur.com/UjyZNno.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+and name it "osTicket".
+  
+<p align="center">
+<img src="https://i.imgur.com/Kx9TFcd.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+**Step 12:** Go back to the browser and continue setting up osTicket by filling out the fields.
+  
+Help Desk Name: *Name*'s Help Desk
+Default Email: whichever email you want (nothing will be sent to it, just for practice)
+
+First Name:
+Last Name:
+Email Address: whichever email you want, but needs to be different from the first one
+Username: user_admin (just to keep it simple)
+Password: Password1 (add "user_admin" credentials to your passwords text file for later)
+  
+MySQL Database: osTicket (the one you just created in HeidiSQL)
+MySQL Username: root
+MySQL Password: Password1
+  
+<p align="center">
+<img src="https://i.imgur.com/a1wkuPL.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
