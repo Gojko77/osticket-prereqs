@@ -29,6 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+:exclamation: **Follow the steps in the order listed as almost any error will lead to having to start over from scratch in a new Virtual Machine** :exclamation:
+
 **Step 1:** Create a Windows 10</b> (21H2) Virtual Machine in your Microsoft Azure portal and connect via Remote Desktop.
 
 **Step 2:** After it's up and running, go to Control Center >> Uninstall or change a Program >> Turn Windows Features on or off >> enable Internet Information Services.
@@ -233,7 +235,7 @@ Take note of these two links:
 </p>
 <p>
   
-"Your Staff Control Panel" takes you to the Admin / Staff Portal where you can login start working through submitted tickets.
+"Your Staff Control Panel" takes you to the Admin / Staff Portal where you can login and start working through tickets.
 
 <p align="center">
 <img src="https://i.imgur.com/p9QBidg.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
@@ -244,23 +246,29 @@ Take note of these two links:
 
 Now it's time to cleanup in preparation for Post-Installation Setup.
   
+Delete C:\inetpub\wwwroot\osTicket\setup folder.
+  
 <p align="center">
-<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+You may need to delete the contents of the "setup" folder first before it allows you to delete the folder itself.
+  
+<p align="center">
+<img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
   
 
-  
 <p align="center">
-<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/jMpbOyO.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
   
-
-  
 <p align="center">
-<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
