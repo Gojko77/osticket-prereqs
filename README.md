@@ -218,6 +218,7 @@ Click "Install Now" and you should land at this page.
 
 Congratulations! You've successfully installed your own Help Desk Ticketing System :grin: :tada:
 
+
 Take note of these two links:
   
 <p align="center">
@@ -226,11 +227,40 @@ Take note of these two links:
 <p>
 
 "Your osTicket URL" takes you to the End User Portal where Users can submit tickets for assistance.
+
+<p align="center">
+<img src="https://i.imgur.com/ASpHU9g.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
   
 "Your Staff Control Panel" takes you to the Admin / Staff Portal where you can login start working through submitted tickets.
 
+<p align="center">
+<img src="https://i.imgur.com/p9QBidg.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+
+
+Now it's time to cleanup in preparation for Post-Installation Setup.
   
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/2Vt5y5k.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
