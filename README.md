@@ -190,41 +190,44 @@ and name it "osTicket".
   
 **Step 12:** Go back to the browser and continue setting up osTicket by filling out the fields.
   
-Help Desk Name: *Name*'s Help Desk
-Default Email: whichever email you want (nothing will be sent to it, just for practice)
+- Help Desk Name: *Name*'s Help Desk
+- Default Email: whichever email you want (nothing will be sent to it, just for practice)
 
-First Name:
-Last Name:
-Email Address: whichever email you want, but needs to be different from the first one
-Username: user_admin (just to keep it simple)
-Password: Password1 (add "user_admin" credentials to your passwords text file for later)
+- First Name: your first name
+- Last Name: your last name
+- Email Address: whichever email you want (needs to be different from the Default Email)
+- Username: user_admin (just to keep it simple)
+- Password: Password1 (add "user_admin" credentials to your "passwords" text file for later)
   
-MySQL Database: osTicket (the one you just created in HeidiSQL)
-MySQL Username: root
-MySQL Password: Password1
+- MySQL Database: osTicket (the one you just created in HeidiSQL)
+- MySQL Username: root
+- MySQL Password: Password1
   
 <p align="center">
-<img src="https://i.imgur.com/a1wkuPL.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/a1wkuPL.png" height="50%" width="50%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
   
-
+Click "Install Now" and you should land at this page.
   
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/zX5qbE8.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
-  
+Congratulations! You've successfully installed your own Help Desk Ticketing System :grin: :tada:
 
+Take note of these two links:
   
 <p align="center">
-<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/xqOBpZL.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
+"Your osTicket URL" takes you to the End User Portal where Users can submit tickets for assistance.
   
+"Your Staff Control Panel" takes you to the Admin / Staff Portal where you can login start working through submitted tickets.
 
   
 <p align="center">
