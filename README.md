@@ -127,22 +127,70 @@ Click "Enable or disable an extension" and enable the three extensions, *php_ima
 **Step 9:** *Rename* "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
   
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/Yb5ct3K.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
   
   
-
+*Right-click* ost-config.php, open Properties >> Security >> Advanced >> Permissions and click "Disable Inheritance" >> "Remove".
   
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/yrLMEHU.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
   
   
+Then add new permissions for *everyone* and give *Full Control*.
+  
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
 
   
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+</p>
+<p>
+
+  
+
+  
+<p align="center">
+<img src="https://i.imgur.com/HE1qbyo.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
