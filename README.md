@@ -73,7 +73,7 @@ MySQL 5.5 will require a name and password, *root* and *Password1* respectively 
 Copy the "upload" folder into c:\inetpubt\wwwroot and *Rename* it "osTicket".
 
 <p align="center">
-<img src="https://i.imgur.com/E12aErK.png" height="40%" width="40%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/E12aErK.png" height="50%" width="50%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
 
@@ -116,15 +116,15 @@ Click "Enable or disable an extension" and enable the three extensions, *php_ima
 <p>
   
   
-**Step 8:** Refresh the osTicket webpage. It should look like this
+**Step 8:** Refresh the osTicket webpage. It should look something like this:
   
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
+<img src="https://i.imgur.com/tqYCpHL.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
 </p>
 <p>
   
   
-
+**Step 9:** *Rename* "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
   
 <p align="center">
 <img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="osTicket Prereqs and Installation"/>
