@@ -269,8 +269,7 @@ You may need to delete the contents of the "setup" folder first before it allows
 
 :tada: **Congratulations on completing your osTicket Help Desk Ticketing System Installation!** 🎉
   
-Look for my repository on osTicket Post-Installation Setup for the next steps :grin:
-  
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Prereqs and Installation"/>
 </p>
